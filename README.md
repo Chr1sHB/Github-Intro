@@ -9,6 +9,7 @@
 
 _Get started using GitHub in less than an hour._
 
+![Science without chains Logo](https://drive.google.com/file/d/1ozP0gXLK6BdDpHFruX6Kr1Vvko8NFMWB/view)
 
 <!-- 
   <<< Author notes: Start of the course >>> 
